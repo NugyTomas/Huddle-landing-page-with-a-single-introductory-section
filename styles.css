@@ -42,7 +42,7 @@ body {
 }
 
 .description h1 {
-    letter-spacing: 0.05rem;
+    letter-spacing: 0.03rem;
     font-size: 3.18rem;
     margin-bottom: 0;
 }
@@ -50,7 +50,7 @@ body {
 .description p {
     font-family: 'Open Sans', sans-serif;
     font-size: 2.175rem;
-    letter-spacing: 0.01rem;
+    letter-spacing: 0.03rem;
     font-weight: 400;
     line-height: 1.6;
     padding-bottom: 2%;
@@ -92,7 +92,7 @@ i:hover {
     }
 
     .main_page {
-        padding: 0 3% 2% 3%;
+        padding: 2% 5% 2% 4%;
     }
 
     .logo {
@@ -108,11 +108,11 @@ i:hover {
     }
 
     .description {
-        padding-left: 3%;
+        padding-left: 6%;
     }
 
     .mockups {
-        width: 100%;
+        width: 80%;
         padding-bottom: 0;
     }
 
@@ -124,21 +124,21 @@ i:hover {
 
     .description p {
         font-size: 1.3rem;
-        line-height: 1.7;
-        letter-spacing: 0.1rem;
+        line-height: 1.5;
+        letter-spacing: 0.03rem;
         font-weight: 400;
         padding-bottom: 1%;
     }
 
     button {
         font-size: 1.4rem;
-        width: 32%;
-        min-height: 4.5rem;
+        width: 30%;
+        min-height: 4rem;
     }
 
     footer {
         justify-content: flex-end;
-        padding-top: 0;
+        padding-top: 4%;
     }
 
 }

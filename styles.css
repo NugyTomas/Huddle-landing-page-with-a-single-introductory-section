@@ -92,7 +92,7 @@ i:hover {
     }
 
     .main_page {
-        padding: 0 5% 2% 5%;
+        padding: 0 3% 2% 3%;
     }
 
     .logo {
@@ -108,7 +108,7 @@ i:hover {
     }
 
     .description {
-        padding-left: 6%;
+        padding-left: 3%;
     }
 
     .mockups {
@@ -138,7 +138,7 @@ i:hover {
 
     footer {
         justify-content: flex-end;
-        padding-top: 4%;
+        padding-top: 0;
     }
 
 }

@@ -18,12 +18,12 @@ body {
     display: flex;
     flex-direction: column;
     min-width: 500px;
-    padding: 8% 7% 13% 7%;
+    padding: 3% 7% 3% 7%;
 }
 
 .logo {
     width: 45%;
-    padding-bottom: 16%;
+    padding-bottom: 10%;
 }
 
 .content {
@@ -41,7 +41,8 @@ body {
     padding-bottom: 10%;
 }
 
-.description h2 {
+.description h1 {
+    letter-spacing: 0.05rem;
     font-size: 3.18rem;
     margin-bottom: 0;
 }
@@ -49,7 +50,7 @@ body {
 .description p {
     font-family: 'Open Sans', sans-serif;
     font-size: 2.175rem;
-    letter-spacing: 0.03rem;
+    letter-spacing: 0.01rem;
     font-weight: 400;
     line-height: 1.6;
     padding-bottom: 2%;
@@ -91,12 +92,13 @@ i:hover {
     }
 
     .main_page {
-        padding: 2% 5% 2% 4%;
+        padding: 0 3% 2% 3%;
     }
 
     .logo {
         width: 13rem;
         padding-bottom: 5%;
+        margin-bottom: 4%;
     }
 
     .content {
@@ -107,22 +109,22 @@ i:hover {
     }
 
     .description {
-        padding-left: 6%;
+        padding-left: 3%;
     }
 
     .mockups {
-        width: 140%;
+        width: 80%;
         padding-bottom: 0;
     }
 
-    .description h2 {
-        font-size: 3rem;
+    .description h1 {
+        font-size: 2rem;
         margin-bottom: 0;
         padding-top: 2%;
     }
 
     .description p {
-        font-size: 1.47rem;
+        font-size: 1.2rem;
         line-height: 1.7;
         letter-spacing: 0.1rem;
         font-weight: 400;
@@ -130,14 +132,14 @@ i:hover {
     }
 
     button {
-        font-size: 1.4rem;
-        width: 32%;
+        font-size: 1.2rem;
+        width: 50%;
         min-height: 4.5rem;
     }
 
     footer {
         justify-content: flex-end;
-        padding-top: 4%;
+        padding-top: 0;
     }
 
 }
